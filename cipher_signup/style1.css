@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Gantari&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Gantari', sans-serif;
+}
+
+.sign-in-box{
+    margin: auto;
+    margin-top: 250px;
+    padding: 70px 50px;
+    height: auto;
+    width: 500px;
+    background-color: aquamarine;
+    justify-content: center;
+}
+
+h1{
+    font-size: 40px;
+    width: fit-content;
+    margin-left: 138px;
+}
+
+.form input{
+    width:100%;
+    height: 45px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 0px;
+    background-color: rgb(224, 216, 216);
+    font-size: 17px;
+}
+
+.form button{
+    width: 100%;
+    height: 45px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 0px;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+}
+
+.form p{
+    margin-top: 15px;
+    color: rgb(108, 108, 108);
+    font-size: 17px;
+    margin-left: 75px;
+    font-weight: bold;
+}
+
+.form p a{
+    text-decoration: none;
+    color: black;
+}
